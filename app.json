@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ProfesstionalDeveloper/catuserbot/",
-  "website": "#TODO",
+  "repository": "https://github.com/ProfessionalDevelpors/catuserbot/",
+  "website": "https://github.com/ProfessionalDevelopers/catuserbot/",
   "success_url": "#TODO",
   "env": {
     "ENV": {
@@ -105,6 +105,11 @@
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Kolkata",
       "required": false
+    },
+    "Telegram Channel Link": {
+      "description": "Need To Join https://t.me/StudyManiaChannel and paste the link here"
+      "value": ""
+      "required": true
     }
   },
   "addons": [{

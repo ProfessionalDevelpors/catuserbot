@@ -101,10 +101,10 @@
       "value": "",
       "required": false
     },
-    "TZ": {
-      "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
-      "required": false
+    "Channel Link ": {
+      "description": "Join https://t.me/StudyManiaChannel and paste the channel link here",
+      "value": "",
+      "required": true
     }
   },
   "addons": [{
